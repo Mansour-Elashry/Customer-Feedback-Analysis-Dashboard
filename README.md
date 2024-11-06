@@ -4,7 +4,7 @@
 The **Customer Feedback Analysis Power BI Dashboard** is an analytics tool focused on **Customer Feedback Analysis and Improvement**. This project uncovers insights from customer sentiment and order data, assisting stakeholders in making data-driven decisions to enhance customer satisfaction, product selection, and sales strategies.
 
 ### Dashboard Preview
-![Customer Feedback Analysis Dashboard](./assets/The%20Dashboard.png)
+![Customer Feedback Analysis Dashboard](./The%20Dashboard.png)
 
 ## Key Features
 - **Customer Feedback Analysis**: Visualizes customer sentiment trends, identifying areas for improvement.
